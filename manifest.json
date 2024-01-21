@@ -1,11 +1,15 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "local-password-manager",
+	"name": "Local password manager.",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "a easy local password manager.",
+	"author": "DonkeyPacific",
+	"authorUrl": "https://github.com/DonkeyPacific/obsidian-local-password-manager-plugin",
+	"fundingUrl": {
+		"Buy Me a Coffee": "https://buymeacoffee.com",
+		"GitHub Sponsor": "https://github.com/sponsors",
+		"Patreon": "https://www.patreon.com/"
+	},
 	"isDesktopOnly": false
 }

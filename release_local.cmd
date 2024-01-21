@@ -1,0 +1,1 @@
+npm run build && copy /Y main.js E:\Obsidian\TestVault\TestVault\.obsidian\plugins\obsidian-local-password-manager-plugin\ && copy /Y manifest.json E:\Obsidian\TestVault\TestVault\.obsidian\plugins\obsidian-local-password-manager-plugin\ && copy /Y styles.css E:\Obsidian\TestVault\TestVault\.obsidian\plugins\obsidian-local-password-manager-plugin\

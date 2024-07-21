@@ -1,7 +1,5 @@
 import { App, Editor, MarkdownView, Modal, Notice, Plugin, PluginSettingTab, Setting, addIcon } from 'obsidian';
 
-// Remember to rename these classes and interfaces!
-
 interface PasswordManagementSettings {
 	mySetting: string;
 }
